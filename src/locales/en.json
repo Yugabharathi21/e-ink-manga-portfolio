@@ -1,0 +1,69 @@
+{
+  "footer": {
+    "tagline": "Made with passion for manga and art",
+    "copyright": "© 2024 Luffy's Art Studio. All rights reserved.",
+    "links": {
+      "home": "Home",
+      "gallery": "Gallery",
+      "about": "About",
+      "commissions": "Commissions",
+      "contact": "Contact"
+    },
+    "social": {
+      "title": "Follow the Adventure",
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "pixiv": "Pixiv",
+      "artstation": "ArtStation"
+    },
+    "quote": "The adventure never ends, and neither does the art!",
+    "quickLinks": "Quick Links",
+    "stayUpdated": "Stay Updated",
+    "notificationInfo": "Get notified about new artwork and commissions!",
+    "subscribe": "Subscribe",
+    "backToAdventure": "Back to Adventure"
+  },
+  "header": {
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Manga Art in Black & White",
+    "subtitle": "Traditional E-ink Illustrations",
+    "ctaButton": "View Gallery"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Explore the Collection",
+    "categories": {
+      "all": "All Artworks",
+      "characters": "Characters",
+      "landscapes": "Landscapes",
+      "action": "Action Scenes"
+    }
+  },
+  "about": {
+    "title": "About the Artist",
+    "story": "The journey began with a simple sketch...",
+    "skills": "Specializing in traditional manga techniques"
+  },
+  "commissions": {
+    "title": "Commissions",
+    "statusOpen": "Currently Open",
+    "statusClosed": "Currently Closed",
+    "pricing": "Starting at $XX",
+    "cta": "Request a Quote"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSubmit": "Send Message"
+  },
+  "fanWall": {
+    "title": "Fan Wall",
+    "subtitle": "Messages from supporters",
+    "shareButton": "Share Your Thoughts"
+  }
+}

@@ -9,10 +9,11 @@ import FanWall from './components/FanWall';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import LoadingScreen from './components/LoadingScreen';
+import { LanguageProvider, useLanguage } from './contexts/LanguageContext';
 
-function App() {
+function AppContent() {
   const [isLoading, setIsLoading] = useState(true);
-  const [language, setLanguage] = useState<'en' | 'jp'>('en');
+  const { language, setLanguage } = useLanguage();
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -31,7 +32,7 @@ function App() {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.5 }}
-      className="min-h-screen bg-[#f7f3ec] text-[#1a1a1a] overflow-x-hidden"
+      className="min-h-screen bg-[var(--crow-white)] text-[var(--crow-dark)] overflow-x-hidden"
     >
       <Header language={language} setLanguage={setLanguage} />
       <main>
@@ -44,6 +45,14 @@ function App() {
       </main>
       <Footer language={language} />
     </motion.div>
+  );
+}
+
+function App() {
+  return (
+    <LanguageProvider>
+      <AppContent />
+    </LanguageProvider>
   );
 }
 

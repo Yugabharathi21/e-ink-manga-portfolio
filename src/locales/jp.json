@@ -1,0 +1,69 @@
+{
+  "footer": {
+    "tagline": "マンガとアートへの情熱で作られました",
+    "copyright": "© 2024 ルフィのアートスタジオ。全著作権所有。",
+    "links": {
+      "home": "ホーム",
+      "gallery": "ギャラリー",
+      "about": "自己紹介",
+      "commissions": "依頼",
+      "contact": "お問い合わせ"
+    },
+    "social": {
+      "title": "冒険をフォロー",
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "pixiv": "Pixiv",
+      "artstation": "ArtStation"
+    },
+    "quote": "冒険は決して終わらない、アートも同じように！",
+    "quickLinks": "クイックリンク",
+    "stayUpdated": "最新情報を受け取る",
+    "notificationInfo": "新しいアートワークや依頼について通知を受け取る！",
+    "subscribe": "購読する",
+    "backToAdventure": "冒険に戻る"
+  },
+  "header": {
+    "menu": "メニュー",
+    "language": "言語"
+  },
+  "hero": {
+    "title": "白黒のマンガアート",
+    "subtitle": "伝統的な電子インクイラスト",
+    "ctaButton": "ギャラリーを見る"
+  },
+  "gallery": {
+    "title": "ギャラリー",
+    "subtitle": "コレクションを探索",
+    "categories": {
+      "all": "全作品",
+      "characters": "キャラクター",
+      "landscapes": "風景",
+      "action": "アクションシーン"
+    }
+  },
+  "about": {
+    "title": "アーティストについて",
+    "story": "旅は一枚のシンプルなスケッチから始まりました...",
+    "skills": "伝統的なマンガ技術を専門とします"
+  },
+  "commissions": {
+    "title": "依頼",
+    "statusOpen": "現在受付中",
+    "statusClosed": "現在締め切り中",
+    "pricing": "XX円から",
+    "cta": "見積もりを依頼"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "formName": "名前",
+    "formEmail": "メール",
+    "formMessage": "メッセージ",
+    "formSubmit": "送信"
+  },
+  "fanWall": {
+    "title": "ファンの壁",
+    "subtitle": "サポーターからのメッセージ",
+    "shareButton": "あなたの感想をシェア"
+  }
+}
